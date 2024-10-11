@@ -1,1 +1,1 @@
-# this repo contains DSA problems solved in CPP
+# This repo contains DSA problems solved in CPP
